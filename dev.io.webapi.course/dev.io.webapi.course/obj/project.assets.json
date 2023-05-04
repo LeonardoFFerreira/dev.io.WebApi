@@ -230,9 +230,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\dev.io.WebApi\\dev.io.webapi.course\\dev.io.webapi.course\\dev.io.webapi.course.csproj",
-      "projectName": "dev.io.webapi.course",
-      "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\dev.io.WebApi\\dev.io.webapi.course\\dev.io.webapi.course\\dev.io.webapi.course.csproj",
+      "projectUniqueName": "C:\\Users\\Thinkpad\\source\\repos\\dev.io.WebApi\\dev.io.webapi.course\\dev.io.webapi.course\\dev.io.webapi.csproj",
+      "projectName": "dev.io.webapi",
+      "projectPath": "C:\\Users\\Thinkpad\\source\\repos\\dev.io.WebApi\\dev.io.webapi.course\\dev.io.webapi.course\\dev.io.webapi.csproj",
       "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Thinkpad\\source\\repos\\dev.io.WebApi\\dev.io.webapi.course\\dev.io.webapi.course\\obj\\",
       "projectStyle": "PackageReference",
