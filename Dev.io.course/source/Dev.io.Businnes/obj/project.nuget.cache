@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tj0A9DB5lBLf29jH32jEtLUMu5GZRMdIxL27TOm/C2/OdJof50EExbFqiSJ10G8i3fNAdG2cw18KqPcU50X+cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thinkpad\\source\\repos\\dev.io.WebApi\\Dev.io.course\\source\\Dev.io.Businnes\\Dev.io.Businnes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thinkpad\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
